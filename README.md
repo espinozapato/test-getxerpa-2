@@ -8,7 +8,7 @@ git clone https://github.com/espinozapato/test-getxerpa-2.git
 ```
 2. Ejecutar Docker Compose
 ```
-docker-compose up || docker compose up
+docker-compose up
 ```
 3. Cargar App 
 ```
